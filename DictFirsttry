@@ -1,0 +1,8 @@
+d = {
+    1: 'one'
+    2: 'two'
+    3: 'three'
+}
+print(d)
+print(len(d))
+print(1 in d, 5 in d, 7 not in d)
